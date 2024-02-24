@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<students>
+    <student sNo="2021100517">
+        <firstName>Joselle Ann</firstName>
+        <lastName>Barreto</lastName>
+    </student>
+
+    <student sNo="2021101797">
+        <firstName>Rosana Rose</firstName>
+        <lastName>Domingo</lastName>
+    </student>
+
+    <student sNo="2021100977">
+        <firstName>Janella Christine</firstName>
+        <lastName>Carrillo</lastName>
+    </student>
+</students>
